@@ -1,0 +1,69 @@
+Game Design Document (GDD)
+Title: ATLAS HIVE: Surface Extraction
+Genre: Co-op Multiplayer Zombie Extraction Shooter / Survival
+Perspective: First-person
+Target Platforms: PC (primary), Consoles
+Target Audience: Fans of Escape from Tarkov, Deep Rock Galactic, Left 4 Dead, and The Division
+Development Stage: Concept
+1. High Concept
+A tense, co-op multiplayer extraction shooter where teams of survivors depart from underground hive bunkers via maglev trains to scavenge the ruined surface world. The goal is to recover critical electrical components, pre-collapse technology, and scientific knowledge to keep the last human hives operational. Every run is high-risk: limited time on the surface, evolving zombie threats, and permanent consequences for failure.
+Core Fantasy: You are the lifeline for underground civilization — part soldier, part scavenger, part scientist — venturing into a post-apocalyptic world ruined by an English-engineered bioweapon.
+2. Story & Setting
+Backstory
+In 2028, a rogue British bioweapons program released a engineered pathogen (codename: “Erebus”). It spread globally within months. The first 24 hours featured full aerosol transmission. After the initial airborne phase, the virus mutated and stabilized — it now only transmits through blood and saliva (bites, scratches, open wounds mixed with infected fluids).
+Nations collapsed. The few remaining survivors retreated into pre-built and hastily expanded underground bunker networks called Hives. These self-sustaining arcologies rely on geothermal power, hydroponics, and aging pre-war technology. Resources are running out.
+Atlas Corporation is one of the largest remaining factions operating multiple Hives. Players belong to Atlas Corp and take on the role of Field Operators — elite soldiers, medics, engineers, and scientists.
+Tone: Grounded, gritty, and claustrophobic. Hope mixed with desperation. Scientific realism where possible.
+3. Core Gameplay Loop
+1.  Mission Briefing – Choose a surface location via the Hive command interface.
+2.  Deployment – Load into an underground maglev train that takes the squad to the chosen egress point.
+3.  Surface Run – Explore, scavenge, complete objectives, and survive.
+4.  Extraction – Reach an extraction point (or call one) before the timer expires or horde density becomes overwhelming. Return to the Hive with loot.
+5.  Hive Phase – Turn in components and data for Hive upgrades, personal progression, and better gear for future runs.
+Run Duration: 45–90 minutes (player-selectable difficulty affects timer and rewards).
+4. Key Features
+Transmission & Infection Mechanics
+•  No airborne transmission anymore (safe to breathe).
+•  Infection only occurs via direct fluid contact (bites, blood splatter in open wounds, etc.).
+•  Players have a visible infection timer + diagnostic HUD.
+•  Field medics can administer antivirals to slow or reset early-stage infection.
+•  Late-stage infection = player turns and must be put down (permadeath risk on high difficulties).
+Scavenging & Objectives
+•  Primary goal: Recover electrical/high-tech components (transformers, capacitors, server blades, quantum drives, research data cores, solar arrays, etc.).
+•  Secondary objectives: Collect scientific knowledge (hard drives, lab notes, prototype tech), medical supplies, rare materials.
+•  Dynamic points of interest: abandoned data centers, universities, power substations, military bases, hospitals, factories.
+Extraction System
+•  Players must physically carry heavy loot (inventory weight/encumbrance system).
+•  Extraction trains or choppers can be called but attract massive hordes.
+•  Failed extractions = lost loot and possible permanent loss of operator.
+5. Multiplayer
+•  1–4 players recommended (up to 6 on larger maps).
+•  Drop-in / Drop-out support.
+•  Friendly fire always on (realism mode).
+•  Voice proximity and radio comms.
+•  Class synergy strongly encouraged.
+Playable Roles / Classes (can be mixed):
+•  Combat Specialist – Heavy firepower, breaching, tanking.
+•  Field Medic / Virologist – Healing, infection management, analysis (Dr. Elias Kane archetype).
+•  Engineer / Technician – Drone support, hacking, faster looting, trap deployment.
+•  Scout / Infiltrator – Stealth, mapping, light gear for faster movement.
+6. Progression & Hive Economy
+•  Hive Level – Collective progress. Successfully extracted components permanently upgrade the bunker (better gear unlocks, longer safe surface time, new train destinations, etc.).
+•  Personal Progression – Operator rank, skills, loadout customization.
+•  Risk/Reward – Higher difficulty locations = better loot and bigger Hive contributions.
+•  Permadeath option available for hardcore servers.
+7. Enemies & Threats
+•  Standard Infected – Slow but numerous. Classic shamblers.
+•  Runners – Fast, aggressive (early-infection victims).
+•  Spitters / Bloated – Ranged acid or area denial.
+•  Smart Infected (“Reclaimers”) – Later-game variants that use basic tools, set ambushes, remember player locations.
+•  Environmental threats: Collapsing buildings, radiation pockets, rival scavenger factions, automated defense systems.
+Horde Escalation – The longer a team stays, the more noise they make, the larger and smarter the hordes become.
+8. Art & Audio Direction
+•  Realistic dark post-apocalyptic visuals with overgrown English/European + American ruins.
+•  Dynamic weather and day/night cycle (night runs are extremely dangerous).
+•  Tense, industrial soundtrack mixed with distant moans and radio static.
+9. Monetization (if applicable)
+•  Cosmetic operator skins, weapon skins, Hive decoration.
+•  Battle pass with cosmetic rewards.
+•  No pay-to-win.
